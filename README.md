@@ -11,7 +11,6 @@ An implementation of the original Snake game in Rust.
   
 Run the following commands to install locally
 ```
-$ cd /path/to/installation
 $ git clone https://github.com/NicBonetto/rusty-snake.git
 ```
 
