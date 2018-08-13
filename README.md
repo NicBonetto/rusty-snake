@@ -30,4 +30,6 @@ Use the arrow keys to guide the snake in the window: ← ↑ ↓ →
 - Running the snake's head into the snake body will result in Game Over.
 - Last as long as you can.
 
+*Note:* Pressing any key besides the arrow keys will exit the game.
+
 Enjoy &#128013;	
